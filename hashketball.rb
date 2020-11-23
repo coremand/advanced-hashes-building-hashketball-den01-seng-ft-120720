@@ -16,7 +16,7 @@ def game_hash
     {:player_name => "Ben Gordon",:number =>8,:shoe =>15,:points =>33,:rebounds => 3,
     :assists => 2,:steals => 1, :blocks => 1, :slam_dunks => 0
   },
-  {}]
+  {:player_name => "Jason Terry",:number =>33,:shoe =>15,:points => 6,}]
     
     
   }
